@@ -1,0 +1,26 @@
+{
+  "wardDropdown": "Ward {wardValue}",
+  "@wardDropdown": {
+    "description": "To be used within the chart dropdown"
+  },
+  "chartTitle": "Spending By Category",
+  "@chartTitle": {
+    "description": "To be used as the title of the chart"
+  },
+  "detailPlaceholder": "Select a category to see spending breakdown",
+  "@detailPlaceholder": {
+    "description": "To be used as the placeholder for the detail region"
+  },
+  "errorLoadingData": "Error loading data",
+  "@errorLoadingData": {
+    "description": "To be used as the message when data fails to load"
+  },
+  "noDataForWardYear":"No data available for ward {wardValue} in {yearValue}",
+  "@noDataForWardYear": {
+    "description": "To be used as the message when no data is available for the selected ward and year"
+  },
+  "projectTitle":"Alderman Spending",
+  "@projectTitle": {
+    "description": "Won't work for the MaterialApp title property, would be used for the title of the project"
+  }
+}
